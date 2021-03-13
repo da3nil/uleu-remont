@@ -8500,7 +8500,8 @@ body._fixed {
   .intro .intro__title {
     font-size: 34px;
     white-space: normal;
-    text-align: center; }
+    text-align: center;
+    margin-top: 0 !important; }
     .intro .intro__title::after {
       display: none; }
   .intro .intro__subtitle {
@@ -8586,7 +8587,8 @@ body._fixed {
   .repair .intro .btn__present::after {
     position: absolute;
     content: 'Забронировать \A подарок \A при рассчете';
-    white-space: pre;
+    white-space: pre-line;
+    text-align: left;
     top: 37%;
     right: -180%;
     font-family: "Montserrat Medium", sans-serif;
@@ -8631,7 +8633,10 @@ body._fixed {
   .repair .intro__iphone,
   .repair .intro__audio {
     display: none !important; }
+  .repair .intro .intro__title {
+    margin-top: 0 !important; }
   .repair .repair .intro .intro__title {
+    margin-top: 0;
     font-size: 25px; }
   .repair .repair .intro .intro__items {
     -ms-flex-pack: space-evenly;
