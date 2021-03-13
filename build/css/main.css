@@ -9523,7 +9523,6 @@ body._fixed {
     min-width: 500px; }
 
 .reviews__btn .btn-default {
-  padding-right: 80px;
   position: relative;
   z-index: 1; }
   .reviews__btn .btn-default img {
@@ -9558,7 +9557,9 @@ body._fixed {
   .reviews__btn {
     margin-top: 50px;
     margin-bottom: 100px;
-    text-align: center; } }
+    text-align: center; }
+    .reviews__btn .btn-default {
+      padding-right: 80px; } }
 
 .repair .reviews {
   margin-top: 15rem; }

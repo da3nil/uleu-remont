@@ -65,7 +65,6 @@
 
 .reviews__btn {
 	& .btn-default {
-		padding-right: 80px;
 		position: relative;
 		z-index: 1;
 
@@ -118,6 +117,11 @@
 	}
 
 	.reviews__btn {
+
+		.btn-default {
+			padding-right: 80px;
+		}
+
 		margin-top: 50px;
 		margin-bottom: 100px;
 		text-align: center;
