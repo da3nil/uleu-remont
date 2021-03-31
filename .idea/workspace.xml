@@ -2,7 +2,281 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36024853-15e7-4e1c-b170-017452af0337" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/public_html.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/public_html.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/main.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-Black.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-BlackItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-BlackItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-BoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-ExtraBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-ExtraBold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-ExtraBoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-ExtraBoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-ExtraLight.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-ExtraLight.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-ExtraLightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-ExtraLightItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-Italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-LightItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-MediumItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-MediumItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-SemiBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-SemiBold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-SemiBoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-SemiBoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-Thin.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-Thin.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/Montserrat-ThinItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/Montserrat-ThinItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/OFL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/fonts/OFL.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/button/button__call-black.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/button/button__call-black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/button/button__call-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/button/button__call-white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/button/button_fire.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/button/button_fire.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/contacts/contacts__bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/contacts/contacts__bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/contacts/contacts__cloud-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/contacts/contacts__cloud-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/contacts/contacts__cloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/contacts/contacts__cloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/contacts/contacts__map.webp" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/contacts/contacts__map.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/contacts/contacts__settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/contacts/contacts__settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/header/header__border.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/header/header__border.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/header/header__calc.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/header/header__calc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/header/header__gpsmark.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/header/header__gpsmark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/header/header__mail.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/header/header__mail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/header/header__profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/header/header__profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/header/header__tools.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/header/header__tools.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/header/header__whatsapp.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/header/header__whatsapp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__audio.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__audio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__button-cloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__button-cloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__features-checkmark.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__features-checkmark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__features-star.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__features-star.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__features-verified.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__features-verified.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__goto.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__goto.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__inst1.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__inst1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__inst2.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__inst2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__iphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__iphone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__pdf.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__pdf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__phone-cloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__phone-cloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__phone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__present-goto.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__present-goto.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__present.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__present.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__tv-group.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__tv-group.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__tv-pult.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__tv-pult.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__tv-station.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__tv-station.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/intro/intro__tv.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/intro/intro__tv.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/modal/modal__form-success.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/modal/modal__form-success.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/problems/problems-item-1_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/problems/problems-item-1_new.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/problems/problems-item-2_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/problems/problems-item-2_new.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/problems/problems-item-3_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/problems/problems-item-3_new.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/problems/problems-item-4_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/problems/problems-item-4_new.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/problems/problems__left-cloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/problems/problems__left-cloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/problems/problems__left-error.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/problems/problems__left-error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/problems/problems__particle.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/problems/problems__particle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/problems/problems__right-cloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/problems/problems__right-cloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/problems/problems__right-error.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/problems/problems__right-error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz-answer-2-img-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz-answer-2-img-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz-answer-2-img-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz-answer-2-img-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz-answer-2-img-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz-answer-2-img-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz-answer-3__img-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz-answer-3__img-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz-answer-3__img-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz-answer-3__img-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz-item-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz-item-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz-item-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz-item-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz-item-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz-item-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz-item-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz-item-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz-item-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz-item-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz-item-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz-item-6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz-item-7.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz-item-7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz-item-8.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz-item-8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz-item-9.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz-item-9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz__bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz__bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz__clock.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz__clock.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz__cloud-mini.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz__cloud-mini.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz__man.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz__man.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz__stopwatch.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz__stopwatch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz__timer-arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz__timer-arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz__timer.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz__timer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/quiz/quiz__tools.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/quiz/quiz__tools.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/reviews/reviews__bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/reviews/reviews__bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/reviews/reviews__btn-next.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/reviews/reviews__btn-next.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/reviews/reviews__mobile-mini.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/reviews/reviews__mobile-mini.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/reviews/reviews__phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/reviews/reviews__phone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/reviews/reviews__rating-star.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/reviews/reviews__rating-star.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/scheme/scheme__man-audio.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/scheme/scheme__man-audio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/scheme/scheme__man-iphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/scheme/scheme__man-iphone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/scheme/scheme__man-left.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/scheme/scheme__man-left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/scheme/scheme__man-right.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/scheme/scheme__man-right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/scheme/scheme__man-tv.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/scheme/scheme__man-tv.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/service/service-item-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/service/service-item-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/service/service-item-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/service/service-item-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/service/service-item-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/service/service-item-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/service/service-item-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/service/service-item-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/service/service-item-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/service/service-item-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/service/service-item-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/service/service-item-6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/service/service__bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/service/service__bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/service/service__red-light-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/service/service__red-light-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/service/service__red-light.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/service/service__red-light.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/service/support__img-left.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/service/support__img-left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/service/support__img-right.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/service/support__img-right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/support/support__img-left.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/support/support__img-left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/support/support__img-right.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/support/support__img-right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/support/support__man-right.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/support/support__man-right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/unused/check__background.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/unused/check__background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/unused/parallelogram.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/unused/parallelogram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/unused/problems-item-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/unused/problems-item-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/unused/problems-item-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/unused/problems-item-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/unused/problems-item-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/unused/problems-item-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/unused/problems-item-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/unused/problems-item-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/js/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/main.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/repair-audio.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/repair-audio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/repair-smartphone.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/repair-smartphone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/repair-tv.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/repair-tv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/server/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/build/server/mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonts/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/button/button__call-black.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/button/button__call-black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/button/button__call-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/button/button__call-white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/button/button_fire.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/button/button_fire.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/contacts/contacts__bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/contacts/contacts__bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/contacts/contacts__cloud-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/contacts/contacts__cloud-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/contacts/contacts__cloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/contacts/contacts__cloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/contacts/contacts__map.webp" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/contacts/contacts__map.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/contacts/contacts__settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/contacts/contacts__settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/header/header__border.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/header/header__border.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/header/header__calc.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/header/header__calc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/header/header__gpsmark.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/header/header__gpsmark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/header/header__mail.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/header/header__mail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/header/header__profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/header/header__profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/header/header__tools.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/header/header__tools.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/header/header__whatsapp.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/header/header__whatsapp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__audio.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__audio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__button-cloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__button-cloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__features-checkmark.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__features-checkmark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__features-star.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__features-star.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__features-verified.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__features-verified.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__goto.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__goto.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__inst1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__inst1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__inst2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__inst2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__iphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__iphone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__pdf.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__pdf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__phone-cloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__phone-cloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__phone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__present-goto.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__present-goto.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__present.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__present.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__tv-group.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__tv-group.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__tv-pult.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__tv-pult.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__tv-station.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__tv-station.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/intro/intro__tv.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/intro/intro__tv.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/modal/modal__form-success.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/modal/modal__form-success.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/problems/problems-item-1_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/problems/problems-item-1_new.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/problems/problems-item-2_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/problems/problems-item-2_new.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/problems/problems-item-3_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/problems/problems-item-3_new.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/problems/problems-item-4_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/problems/problems-item-4_new.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/problems/problems__left-cloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/problems/problems__left-cloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/problems/problems__left-error.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/problems/problems__left-error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/problems/problems__particle.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/problems/problems__particle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/problems/problems__right-cloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/problems/problems__right-cloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/problems/problems__right-error.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/problems/problems__right-error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz-answer-2-img-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz-answer-2-img-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz-answer-2-img-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz-answer-2-img-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz-answer-2-img-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz-answer-2-img-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz-answer-3__img-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz-answer-3__img-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz-answer-3__img-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz-answer-3__img-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz-item-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz-item-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz-item-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz-item-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz-item-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz-item-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz-item-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz-item-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz-item-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz-item-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz-item-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz-item-6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz-item-7.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz-item-7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz-item-8.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz-item-8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz-item-9.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz-item-9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz__bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz__bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz__clock.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz__clock.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz__cloud-mini.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz__cloud-mini.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz__man.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz__man.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz__stopwatch.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz__stopwatch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz__timer-arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz__timer-arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz__timer.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz__timer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/quiz/quiz__tools.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/quiz/quiz__tools.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/reviews/reviews__bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/reviews/reviews__bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/reviews/reviews__btn-next.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/reviews/reviews__btn-next.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/reviews/reviews__mobile-mini.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/reviews/reviews__mobile-mini.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/reviews/reviews__phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/reviews/reviews__phone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/reviews/reviews__rating-star.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/reviews/reviews__rating-star.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/scheme/scheme__man-audio.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/scheme/scheme__man-audio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/scheme/scheme__man-iphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/scheme/scheme__man-iphone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/scheme/scheme__man-left.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/scheme/scheme__man-left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/scheme/scheme__man-right.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/scheme/scheme__man-right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/scheme/scheme__man-tv.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/scheme/scheme__man-tv.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/service/service-item-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/service/service-item-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/service/service-item-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/service/service-item-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/service/service-item-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/service/service-item-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/service/service-item-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/service/service-item-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/service/service-item-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/service/service-item-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/service/service-item-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/service/service-item-6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/service/service__bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/service/service__bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/service/service__red-light-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/service/service__red-light-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/service/service__red-light.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/service/service__red-light.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/service/support__img-left.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/service/support__img-left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/service/support__img-right.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/service/support__img-right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/support/support__img-left.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/support/support__img-left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/support/support__img-right.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/support/support__img-right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/support/support__man-right.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/support/support__man-right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/unused/check__background.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/unused/check__background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/unused/parallelogram.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/unused/parallelogram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/unused/problems-item-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/unused/problems-item-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/unused/problems-item-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/unused/problems-item-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/unused/problems-item-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/unused/problems-item-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/unused/problems-item-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/unused/problems-item-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/animations.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/animations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/my.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/my.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/quiz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/reviews.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/reviews.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repair-audio.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/repair-audio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repair-smartphone.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/repair-smartphone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repair-tv.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/repair-tv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/components/btn-default.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/components/btn-default.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/my.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/my.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/sections/contacts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/sections/contacts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/sections/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/sections/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/sections/intro.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/sections/intro.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/sections/problems.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/sections/problems.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/sections/quiz.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/sections/quiz.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/sections/reviews.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/sections/reviews.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/sections/scheme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/sections/scheme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/sections/service.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/sections/service.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/sections/support.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/sections/support.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/intro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/modal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/problems.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/problems.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/quiz.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/quiz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/repair/repair-header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/repair/repair-header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/repair/repair-intro_audio.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/repair/repair-intro_audio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/repair/repair-intro_smartphone.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/repair/repair-intro_smartphone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/repair/repair-intro_tv.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/repair/repair-intro_tv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/repair/repair-scheme_audio.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/repair/repair-scheme_audio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/repair/repair-scheme_smartphone.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/repair/repair-scheme_smartphone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/repair/repair-scheme_tv.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/repair/repair-scheme_tv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/reviews.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/reviews.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/scheme.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/scheme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/support.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/support.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +367,8 @@
       <workItem from="1615437080697" duration="3417000" />
       <workItem from="1615549098772" duration="5284000" />
       <workItem from="1615617036756" duration="3843000" />
+      <workItem from="1617057292506" duration="3337000" />
+      <workItem from="1617227182966" duration="748000" />
     </task>
     <task id="LOCAL-00001" summary="header">
       <created>1614281297951</created>
@@ -234,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615625844539</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="some fixs&#10;fix header">
+      <created>1615627395953</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1615627395953</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +556,7 @@
     <MESSAGE value="fix close dropdown menu" />
     <MESSAGE value="some fixs&#10;fix review btn" />
     <MESSAGE value="some fixs&#10;fix intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="some fixs&#10;fix intro" />
+    <MESSAGE value="some fixs&#10;fix header" />
+    <option name="LAST_COMMIT_MESSAGE" value="some fixs&#10;fix header" />
   </component>
 </project>

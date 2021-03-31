@@ -57,7 +57,7 @@ if (!empty($_POST)) {
 
 
     $message = "
-        <h1>Заявка на обратный звонок от uleu.ru</h1>
+        <h1>Заявка на обратный звонок от remont-tv-ufa.ru/landing</h1>
         <hr>
         <p>
             <b>Имя:</b>
@@ -85,7 +85,7 @@ if (!empty($_POST)) {
     $result = mail(
         'd.prytckov@yandex.ru',
         'Получена заявка!', $message,
-        "From: support@uleu.ru\r\n"
+        "From: support@remont-tv-ufa.ru\r\n"
         . "Content-type: text/html; charset=utf-8\r\n"
         . "X-Mailer: PHP mail script"
     );

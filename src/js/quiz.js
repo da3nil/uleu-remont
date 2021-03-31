@@ -167,7 +167,7 @@ function send(event) {
 			form.find('.support-form_before').css('opacity', 0);
 			form.find('.support-form_after').css('opacity', 1);
 
-			setInterval(() => {
+			let timer = setInterval(() => {
 				count.html(timerValue);
 
 				if (timerValue == 4 || timerValue == 3 || timerValue == 2) {
@@ -183,6 +183,7 @@ function send(event) {
 					phone_i.val("");
 					form.find('.support-form_before').css('opacity', 1);
 					form.find('.support-form_after').css('opacity', 0);
+					clearInterval(timer);
 					return timerValue;
 				}
 
