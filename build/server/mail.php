@@ -83,7 +83,7 @@ if (!empty($_POST)) {
     ";
 
     $result = mail(
-        'd.prytckov@yandex.ru',
+        'd.prytckov@yandex.ru,ufa12@is-ufa.com',
         'Получена заявка!', $message,
         "From: support@remont-tv-ufa.ru\r\n"
         . "Content-type: text/html; charset=utf-8\r\n"

@@ -9869,3 +9869,13 @@ body._fixed {
     -ms-flex-pack: center;
         justify-content: center;
     text-align: left; } }
+
+.check-order .form-support__control {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content; }
+
+@media screen and (max-width: 768px) {
+  .check-order .btn-check-order,
+  .check-order .form-support__control {
+    width: 100%; } }

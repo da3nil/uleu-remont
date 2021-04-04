@@ -25,4 +25,5 @@
 //= quiz.js
 //= reviews.js
 //= animations.js
+//= order.js
 //= my.js

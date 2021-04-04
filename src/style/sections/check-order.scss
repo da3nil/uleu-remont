@@ -1,0 +1,15 @@
+.check-order {
+  .form-support__control {
+    width: fit-content;
+  }
+}
+
+
+@media screen and (max-width: map-get($grid-breakpoints, 'md')){
+  .check-order {
+    .btn-check-order,
+    .form-support__control{
+      width: 100%;
+    }
+  }
+}
