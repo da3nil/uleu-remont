@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36024853-15e7-4e1c-b170-017452af0337" name="Default Changelist" comment="some fixs&#10;fixs">
-      <change afterPath="$PROJECT_DIR$/src/check-order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style/sections/check-order.scss" afterDir="false" />
+    <list default="true" id="36024853-15e7-4e1c-b170-017452af0337" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/check-order.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/check-order.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/main.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/js/main.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/main.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/repair-audio.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/repair-audio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/repair-smartphone.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/repair-smartphone.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/repair-tv.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/repair-tv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/server/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/build/server/mail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/mail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/server/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/sections/support.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/sections/support.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/template/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/template/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/template/repair/repair-header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/repair/repair-header.html" afterDir="false" />
@@ -115,7 +110,8 @@
       <workItem from="1617057292506" duration="3337000" />
       <workItem from="1617227182966" duration="1973000" />
       <workItem from="1617340133430" duration="632000" />
-      <workItem from="1617549346354" duration="7468000" />
+      <workItem from="1617549346354" duration="8090000" />
+      <workItem from="1617721785539" duration="1270000" />
     </task>
     <task id="LOCAL-00001" summary="header">
       <created>1614281297951</created>
@@ -271,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617227942265</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="some fixs">
+      <created>1617559606694</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1617559606694</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,6 +315,7 @@
     <MESSAGE value="some fixs&#10;fix intro" />
     <MESSAGE value="some fixs&#10;fix header" />
     <MESSAGE value="some fixs&#10;fixs" />
-    <option name="LAST_COMMIT_MESSAGE" value="some fixs&#10;fixs" />
+    <MESSAGE value="some fixs" />
+    <option name="LAST_COMMIT_MESSAGE" value="some fixs" />
   </component>
 </project>
